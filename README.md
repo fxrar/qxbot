@@ -17,8 +17,8 @@ This bot automates trading operations on the QuoteX platform using Python and Se
 **Main Components:**
 - `qx.py` - Main bot script that handles trading operations
 - `config.yml` - Configuration settings for the bot
-- `killer.js` - JavaScript helper functions
-- `killer.bat` - Batch script for Windows execution
+- `killer.js` - JavaScript Script Closer
+- `killer.bat` - Batch script for JS execution
 
 ## Setup Instructions
 
@@ -38,7 +38,7 @@ pip install selenium
 |------|-------------|
 | qx.py | Core bot implementation with trading logic |
 | config.yml | Bot configuration and settings |
-| killer.js | JavaScript utilities for enhanced functionality |
+| killer.js | JavaScript utilities Function to stop script |
 | killer.bat | Windows execution script |
 
 ## Configuration
