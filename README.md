@@ -59,7 +59,14 @@ PASSWORD = "your_password"
 python qx.py
 ```
 
-## Technical Details
+
+
+# ❤️ Support
+Want to support me? Oh I don't need any help right now but nature does! Support nature by donating to The Nature Conservancy or spread the word if you can't donate.
+
+**Donate Here** : https://www.nature.org/en-us/membership-and-giving/donate-to-our-mission/
+
+Made with ❤️ by h1ac & fxrar
 
 The bot utilizes Selenium WebDriver to interact with the QuoteX platform, automating trading operations through Python scripts. It maintains session persistence and handles automated login processes.
 
